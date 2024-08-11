@@ -2,8 +2,8 @@
 A DAO platform with proof of personhood and a token cap per individual implemented to maintain decentralization and limit disproportionate influence by whales.
 
 ### Partners Intergated
-- Optimism: Optimism was utilized to deploy and test our contracts on the Optimism network. We specifically worked with Optimism Sepolia for our deployments.
-- Worldcoin: To ensure the integrity of our DAO's voting process and prevent Sybil attacks, we integrated the Worldcoin stack. The DAO requires voters to prove their humanity using Worldcoin, leveraging the WorldID contract to verify voter authenticity. This helps in maintaining a fair and secure voting environment by validating each voter as a unique human.
+- **Optimism**: Optimism was utilized to deploy and test our contracts on the Optimism network. We specifically worked with Optimism Sepolia for our deployments.
+- **Worldcoin**: To ensure the integrity of our DAO's voting process and prevent Sybil attacks, we integrated the Worldcoin stack. The DAO requires voters to prove their humanity using Worldcoin, leveraging the WorldID contract to verify voter authenticity. This helps in maintaining a fair and secure voting environment by validating each voter as a unique human.
 
 ## Repository Structure
 We have two submodules :

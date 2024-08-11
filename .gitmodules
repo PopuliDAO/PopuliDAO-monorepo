@@ -1,0 +1,6 @@
+[submodule "PopuliDAO-SC"]
+	path = PopuliDAO-SC
+	url = https://github.com/PopuliDAO/PopuliDAO-SC.git
+[submodule "PopuliDAO-UI"]
+	path = PopuliDAO-UI
+	url = https://github.com/PopuliDAO/PopuliDAO-UI.git

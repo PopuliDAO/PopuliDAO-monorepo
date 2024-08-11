@@ -73,10 +73,6 @@ World ID Router:   0x469449f251692e0779667583026b5a1e99512157
 Identity Manager:  0xb2ead588f14e69266d1b87936b75325181377076
 ```
 
-## Deployments
-
-### Latest Optimism Sepolia deployments
-
 
 
 
